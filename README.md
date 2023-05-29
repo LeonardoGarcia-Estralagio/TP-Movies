@@ -4,4 +4,4 @@
 - Leandro Gillig
 - Débora Escobar
 - Leonardo Garcia
-- Rodrigo Hidalgo
+- Rodrigo Hidalgo (Edad: 24, Ciudad: Mendoza, Capital)
